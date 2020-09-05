@@ -1,5 +1,4 @@
 try:
-    from PIL import ImageGrab as ig
     import smtplib
     from email.message import EmailMessage
     import imghdr
